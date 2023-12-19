@@ -15,5 +15,6 @@ namespace Agency.Business.Services.Interfaces
         Task<Portfolio> GetByIdAsync(int id);
         Task<List<Portfolio>> GetAllAsync(Expression<Func<Portfolio, bool>>? expression = null);
         Task UpdateAsync(Portfolio entity);
+        Task<List<Portfolio>> GetAllAsync();
     }
 }

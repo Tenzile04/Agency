@@ -41,22 +41,25 @@
                                     <div class="text-center">
                                         <h1 class="h4 text-gray-900 mb-4">Welcome Back!</h1>
                                     </div>
-                                    <form method="post" asp-action="login" asp-controller="account" >
+                                    <form class="user" method="post" asp-action="login" asp-controller="account">
                                         <div class="form-group">
-                                            <input asp-for=Username  class="form-control form-control-user"
-                                                  
-                                                   placeholder="Enter Email Address...">
+                                            <input asp-for="Username" class="form-control form-control-user"
+                                                   placeholder="Enter Username...">
+                                            <span asp-validation-for="Username" class="text-danger"></span>
                                         </div>
                                         <div class="form-group">
-                                            <input asp-for=Password  class="form-control form-control-user"
-                                                    placeholder="Password">
+                                            <input asp-for="Password" class="form-control form-control-user"
+                                                   placeholder="Enter Password...">
+                                            <span asp-validation-for="Password" class="text-danger"></span>
                                         </div>
-                                      
+
                                         <button type="submit" class="btn btn-primary btn-user btn-block">
                                             Login
                                         </button>
+                                        <div asp-validation-summary="ModelOnly"></div>
+
                                     </form>
-                                    
+
                                 </div>
                             </div>
                         </div>
@@ -68,7 +71,6 @@
         </div>
 
     </div>
-
     <!-- Bootstrap core JavaScript-->
     <script src="~/manage/vendor/jquery/jquery.min.js"></script>
     <script src="~/manage/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

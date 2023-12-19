@@ -15,3 +15,21 @@ C:\Users\II novbe\Desktop\rand\Visual studio\Agency\src\Agency.Data\obj\Debug\ne
 C:\Users\II novbe\Desktop\rand\Visual studio\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.pdb
 C:\Users\II novbe\Desktop\rand\Visual studio\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.genruntimeconfig.cache
 C:\Users\II novbe\Desktop\rand\Visual studio\Agency\src\Agency.Data\obj\Debug\net6.0\ref\Agency.Data.dll
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\bin\Debug\net6.0\Agency.Data.deps.json
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\bin\Debug\net6.0\Agency.Data.runtimeconfig.json
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\bin\Debug\net6.0\Agency.Data.dll
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\bin\Debug\net6.0\Agency.Data.pdb
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\bin\Debug\net6.0\Agency.Core.dll
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\bin\Debug\net6.0\Agency.Core.pdb
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.csproj.AssemblyReference.cache
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.AssemblyInfoInputs.cache
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.AssemblyInfo.cs
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.csproj.CoreCompileInputs.cache
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.sourcelink.json
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.csproj.CopyComplete
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.dll
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\refint\Agency.Data.dll
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.pdb
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\Agency.Data.genruntimeconfig.cache
+C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.Data\obj\Debug\net6.0\ref\Agency.Data.dll

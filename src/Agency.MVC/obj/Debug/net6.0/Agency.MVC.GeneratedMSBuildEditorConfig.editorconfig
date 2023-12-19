@@ -9,67 +9,83 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Agency.MVC
 build_property.RootNamespace = Agency.MVC
-build_property.ProjectDir = C:\Users\II novbe\Desktop\rand\Visual studio\Agency\src\Agency.MVC\
+build_property.ProjectDir = C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\II novbe\Desktop\rand\Visual studio\Agency\src\Agency.MVC
+build_property.MSBuildProjectDirectory = C:\Users\Tenzıle SSD\Desktop\Agency\src\Agency.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/Account/Login.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Account/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEFjY291bnRcTG9naW4uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Create.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Delete.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XERlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Index.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Update.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Category/Update.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXENhdGVnb3J5XFVwZGF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/DashBoard/Index.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/DashBoard/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/DashBoard/Login.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/DashBoard/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXERhc2hCb2FyZFxMb2dpbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/Shared/_Layout.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Portfolio/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Portfolio/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Portfolio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Portfolio/Update.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFBvcnRmb2xpb1xVcGRhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/_ViewImports.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Areas/Manage/Views/_ViewStart.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Areas/Manage/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Views/Home/Index.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Views/_ViewImports.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Views/_ViewStart.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/II novbe/Desktop/rand/Visual studio/Agency/src/Agency.MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/Tenzıle SSD/Desktop/Agency/src/Agency.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-aztsagsxrz

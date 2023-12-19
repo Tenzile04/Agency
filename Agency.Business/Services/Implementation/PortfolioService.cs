@@ -18,14 +18,26 @@ namespace Agency.Business.Services.Implementation
         {
             _portfolioRepository = portfolioRepository;
         }
-        public Task CreateAsync(Portfolio entity)
+     
+
+        public async Task CreateAsync(Portfolio entity)
         {
-            throw new NotImplementedException();
+            if (_portfolioRepository.Table.Any(x => x.Name == entity.Name))
+                throw new NullReferenceException();
+
+            await _portfolioRepository.CreateAsync(entity);
+            await _portfolioRepository.CommitAsync();
         }
 
-        public Task Delete(int id)
+        public async Task Delete(int id)
         {
-            throw new NotImplementedException();
+
+            Portfolio portfolio = await _portfolioRepository.GetByIdAsync(x => x.IsDeleted == false && x.Id == id);
+
+            if (portfolio is null) throw new NullReferenceException();
+
+            _portfolioRepository.Delete(portfolio);
+            await _portfolioRepository.CommitAsync();
         }
 
         public Task<List<Portfolio>> GetAllAsync(Expression<Func<Portfolio, bool>>? expression = null)
@@ -33,14 +45,28 @@ namespace Agency.Business.Services.Implementation
             throw new NotImplementedException();
         }
 
-        public Task<Portfolio> GetByIdAsync(int id)
+        public async Task<List<Portfolio>> GetAllAsync()
         {
-            throw new NotImplementedException();
+            return await _portfolioRepository.GetAllAsync(p => p.IsDeleted == false);
         }
 
-        public Task UpdateAsync(Portfolio entity)
+        public async Task<Portfolio> GetByIdAsync(int id)
         {
-            throw new NotImplementedException();
+            return await _portfolioRepository.GetByIdAsync(p => p.IsDeleted == false && p.Id == id);
+        }
+
+        public async Task UpdateAsync(Portfolio entity)
+        {
+            Portfolio existPortfolio = await _portfolioRepository.GetByIdAsync(x => x.Id == entity.Id && x.IsDeleted == false);
+
+            if (_portfolioRepository.Table.Any(x => x.Name.ToLower() == entity.Name.ToLower() && existPortfolio.Id != entity.Id))
+            {
+                throw new NullReferenceException();
+            }
+
+            existPortfolio.Name = entity.Name;
+
+            await _portfolioRepository.CommitAsync();
         }
     }
 }
